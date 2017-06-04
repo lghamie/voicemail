@@ -17,7 +17,10 @@
   },
   "homepage": "https://github.com/lghamie/voicemail#readme",
   "dependencies": {
+    "body-parser": "^1.16.0",
     "express": "^4.14.0",
+    "ioredis": "^2.5.0",
+    "node-telegram-bot-api": "^0.26.0",
     "twilio": "^2.11.1"
   }
 }
